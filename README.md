@@ -1,4 +1,4 @@
-# CrypTen Research — Quick README
+# Same Sign 2PC Experiment
 
 This repository contains a small research prototype exploring additive secret sharing, Beaver triples, and secure convolution/linear operations (inspired by CrypTen). The code is minimal and intended for experimentation and algorithmic validation.
 
